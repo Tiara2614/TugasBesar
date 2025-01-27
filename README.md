@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/SirGhazian/webiste-donasi-laravel/assets/142916107/8b668175-edfd-4b37-9bb5-291754cd53c2">
@@ -161,3 +162,6 @@ Untuk bantuan dan pertanyaan, silahkan hubungi sosial media saya:
 
 -   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ghazian_tza)
 -   [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCIp_064wQ8RqNSEy1asx_4w)
+=======
+# TugasBesar
+>>>>>>> c2e2fc9e6973e2f95e81585ac50d59d253588e6a
