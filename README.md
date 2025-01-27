@@ -1,10 +1,5 @@
 <<<<<<< HEAD
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Tiara2614/webiste-donasi-laravel/assets/142916107/8b668175-edfd-4b37-9bb5-291754cd53c2">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Tiara2614/webiste-donasi-laravel/assets/142916107/ea92ccf0-55e3-49bc-b743-78a1df2cffd3">
-  <img alt="Header" height="80" >
-</picture>
 </div>
 
 <img src="https://github.com/Tiara2614/webiste-donasi/assets/142916107/cbff83f0-c91c-4291-9f02-9463e4533380" width="100%" height="2px"/>
